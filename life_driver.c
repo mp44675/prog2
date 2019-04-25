@@ -12,10 +12,10 @@
  * On my honor, <NAME>, this programming project is my own work
  * and I have not provided this code to any other student.
  *
- * Name:
- * email address:
- * UTEID:
- * Section 5 digit ID:
+ * Name: Mrugank Parab
+ * email address: parab@mrugank@gmail.com
+ * UTEID: mp44675
+ * Section 5 digit ID: Finals study
  *
  */
 
