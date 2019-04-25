@@ -49,14 +49,14 @@ int main(int argc, char *argv[]) {
 
    showWorld(world, numRows, numCols);
 
-   for (int iteration = 0; iteration < numGenerations; iteration++) {
+   /*for (int iteration = 0; iteration < numGenerations; iteration++) {
 
      // code to clear screen goes here
 
      iterateGeneration(world, numRows, numCols);
 
      showWorld(world, numRows, numCols);
-  }
+  }*/
 
   return 0;
 }
